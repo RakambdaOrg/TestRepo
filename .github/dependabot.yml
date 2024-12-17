@@ -1,1 +1,12 @@
-{"a":"tata","b":{"toto":"titi","tata":"toto"},"c":["tata","titi","tata"]}
+{
+    "a": "tata",
+    "b": {
+        "toto": "titi",
+        "tata": "toto"
+    },
+    "c": [
+        "tata",
+        "titi",
+        "tata"
+    ]
+}
